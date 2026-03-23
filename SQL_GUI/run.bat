@@ -1,0 +1,1 @@
+call E:\Java\SQL_GUI\SQL_GUI\target\image\bin\AppLauncher.bat
